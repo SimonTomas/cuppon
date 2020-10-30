@@ -1,0 +1,51 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    font-size: 21pt;
+}
+h5{
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+.card-body p,
+.card-link
+{
+    color: #707070;
+    font-weight: 300;
+}
+
+.fs-13{
+    font-size: 13pt;
+}
+.fs-16,
+.card-body .card-link
+{
+    font-size: 16pt;
+}
+.card-body .text-success{
+    font-size: 20pt;
+    font-weight: 500;
+}
+nav a img{
+    width: 86px;
+}
+footer div img{
+    width: 82px;
+}
+
+::placeholder {
+    font-weight: 300 !important;
+    color: #707070 !important;
+}
+
+footer{
+    color: #707070;
+}
+
+footer p{
+    font-size: 16pt;
+    color: #707070;
+    font-weight: 300;
+}
